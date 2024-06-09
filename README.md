@@ -5,6 +5,7 @@
 ###
 
 <div align="center">
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=tiva-invitrace&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiva-invitrace&hide=html&hide_border=true&layout=compact&langs_count=8&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,fc00ff,00dbde&theme=dark" /></a>
 </div>
 
