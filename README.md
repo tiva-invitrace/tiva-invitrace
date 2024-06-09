@@ -71,7 +71,6 @@
 ###
 
 ###
-
-<img src="https://raw.githubusercontent.com/tiva-invitrace/tiva-invitrace/output/snake.svg" alt="Snake animation" />
-
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
 ###
