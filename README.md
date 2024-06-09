@@ -4,8 +4,12 @@
 
 ###
 
-[![GitHub Streak](https://github-readme-streak-stats-salesp07.vercel.app?user=tiva-invitrace&theme=dark&hide_border=true&border_radius=10&locale=th&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
+<div align="center">
+[![GitHub Streak](https://github-readme-streak-stats-salesp07.vercel.app?user=tiva-invitrace&theme=dark&hide_border=true&border_radius=10&locale=th&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+</div>
+
+###
 
 <div align="center">
  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiva-invitrace&hide=html&hide_border=true&layout=compact&langs_count=8&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,fc00ff,00dbde&theme=dark" /></a>
