@@ -69,7 +69,5 @@
 ###
 
 ###
-
-<br clear="both">
-
+<img src="https://raw.githubusercontent.com/tiva-invitrace/tiva-invitrace/output/snake.svg" alt="Snake animation" />
 ###
